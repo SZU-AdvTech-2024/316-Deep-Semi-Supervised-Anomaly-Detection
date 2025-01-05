@@ -1,0 +1,7 @@
+@inproceedings{REPO316,
+    author = {Ruff, Lukas and Vandermeulen, Robert A. and G{\"o}rnitz, Nico and Binder, Alexander and M{\"u}ller, Emmanuel and M{\"u}ller, Klaus-Robert and Kloft, Marius},
+    booktitle = "International Conference on Learning Representations",
+    title = "{Deep Semi-Supervised Anomaly Detection}",
+    url = "https://openreview.net/forum?id=HkgH0TEYwH",
+    year = "2020"
+}
