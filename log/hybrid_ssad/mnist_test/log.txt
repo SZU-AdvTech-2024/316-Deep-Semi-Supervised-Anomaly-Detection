@@ -1,0 +1,30 @@
+2024-12-17 17:11:53,797 - root - INFO - Log file is ../log/hybrid_ssad/mnist_test/log.txt.
+2024-12-17 17:11:53,798 - root - INFO - Data path is ../data.
+2024-12-17 17:11:53,798 - root - INFO - Export path is ../log/hybrid_ssad/mnist_test.
+2024-12-17 17:11:53,798 - root - INFO - Dataset: mnist
+2024-12-17 17:11:53,799 - root - INFO - Normal class: 0
+2024-12-17 17:11:53,799 - root - INFO - Ratio of labeled normal train samples: 0.00
+2024-12-17 17:11:53,799 - root - INFO - Ratio of labeled anomalous samples: 0.01
+2024-12-17 17:11:53,799 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2024-12-17 17:11:53,799 - root - INFO - Known anomaly class: 1
+2024-12-17 17:11:53,799 - root - INFO - SSAD kernel: rbf
+2024-12-17 17:11:53,799 - root - INFO - Kappa-paramerter: 1.00
+2024-12-17 17:11:53,800 - root - INFO - Hybrid model: True
+2024-12-17 17:11:53,800 - root - INFO - Computation device: cpu
+2024-12-17 17:11:53,800 - root - INFO - Number of dataloader workers: 0
+2024-12-17 17:12:25,994 - root - INFO - Log file is ../log/hybrid_ssad/mnist_test/log.txt.
+2024-12-17 17:12:25,994 - root - INFO - Data path is ../data.
+2024-12-17 17:12:25,995 - root - INFO - Export path is ../log/hybrid_ssad/mnist_test.
+2024-12-17 17:12:25,995 - root - INFO - Dataset: mnist
+2024-12-17 17:12:25,995 - root - INFO - Normal class: 0
+2024-12-17 17:12:25,995 - root - INFO - Ratio of labeled normal train samples: 0.00
+2024-12-17 17:12:25,996 - root - INFO - Ratio of labeled anomalous samples: 0.01
+2024-12-17 17:12:25,996 - root - INFO - Pollution ratio of unlabeled train data: 0.10
+2024-12-17 17:12:25,996 - root - INFO - Known anomaly class: 1
+2024-12-17 17:12:25,996 - root - INFO - SSAD kernel: rbf
+2024-12-17 17:12:25,996 - root - INFO - Kappa-paramerter: 1.00
+2024-12-17 17:12:25,997 - root - INFO - Hybrid model: True
+2024-12-17 17:12:26,007 - root - INFO - Set seed to 42.
+2024-12-17 17:12:26,008 - root - INFO - Computation device: cpu
+2024-12-17 17:12:26,008 - root - INFO - Number of dataloader workers: 0
+2024-12-17 17:12:26,157 - root - INFO - Loaded pretrained autoencoder for features from ../log/DeepSAD/mnist_test/model.tar.
